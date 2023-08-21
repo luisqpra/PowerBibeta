@@ -20,7 +20,7 @@ The Power BI dashboard includes the following visualizations:
 
 3. Open Power BI Desktop and select "Open file" from the main menu.
 
-4. Navigate to the location where you cloned or downloaded this repository and select the dashboard file (`data_viz_practice_example.pbix`).
+4. Navigate to the location where you cloned or downloaded this repository and select the dashboard file (`Comercializadora - Dashboard A.pbix` or `Comercializadora - Dashboard Resuelto B.pbix`).
 
 5. Explore the dashboard and included visualizations. Feel free to interact with interactive elements and modify visualizations to experiment with the data.
 
